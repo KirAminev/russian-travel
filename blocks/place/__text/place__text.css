@@ -4,4 +4,21 @@
     flex-direction: column;
     align-self: start;
     margin: 0;
+    padding-bottom: 26px;
+}
+
+.place__text:last-child {
+    padding-bottom: 0;
+}
+
+@media screen and (max-width:768px) {
+    .place__text {
+        padding-bottom: 25;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .place__text {
+        padding: 0 16px 0;
+    }
 }

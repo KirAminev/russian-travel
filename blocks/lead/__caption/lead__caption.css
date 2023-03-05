@@ -13,6 +13,7 @@
     .lead__caption {
         max-width: 768px;
         max-height: 480px;
+        padding-left: 24px;
     }
 }
 
@@ -20,5 +21,6 @@
     .lead__caption {
         max-width: 320px;
         max-height: 200px;
+        padding-left:16px;
     }
 }
