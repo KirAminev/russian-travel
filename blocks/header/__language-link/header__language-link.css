@@ -6,10 +6,8 @@
     margin-right: 18px;
     text-decoration: none;
     color: #fff;
-}
-
-.header__language-link:last-child .header__language-link {
-    margin-right: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .header__language-link:hover {
