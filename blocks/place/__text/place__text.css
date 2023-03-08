@@ -13,12 +13,12 @@
 
 @media screen and (max-width:768px) {
     .place__text {
-        padding-bottom: 25;
+        padding-bottom: 25px;
     }
 }
 
 @media screen and (max-width:320px) {
     .place__text {
-        padding: 0 16px 0;
+        padding: 0 16px 25px;
     }
 }
